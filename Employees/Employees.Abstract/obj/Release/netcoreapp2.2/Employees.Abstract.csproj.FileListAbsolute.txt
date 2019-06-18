@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FindWork\Employees\Employees.Abstract\bin\Release\netcoreapp2.2\Employees.Abstract.deps.json
+C:\Users\user\source\repos\FindWork\Employees\Employees.Abstract\bin\Release\netcoreapp2.2\Employees.Abstract.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.Abstract\bin\Release\netcoreapp2.2\Employees.Abstract.pdb
+C:\Users\user\source\repos\FindWork\Employees\Employees.Abstract\bin\Release\netcoreapp2.2\Employees.Entities.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.Abstract\bin\Release\netcoreapp2.2\Employees.Entities.pdb
+C:\Users\user\source\repos\FindWork\Employees\Employees.Abstract\obj\Release\netcoreapp2.2\Employees.Abstract.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FindWork\Employees\Employees.Abstract\obj\Release\netcoreapp2.2\Employees.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FindWork\Employees\Employees.Abstract\obj\Release\netcoreapp2.2\Employees.Abstract.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FindWork\Employees\Employees.Abstract\obj\Release\netcoreapp2.2\Employees.Abstract.AssemblyInfo.cs
+C:\Users\user\source\repos\FindWork\Employees\Employees.Abstract\obj\Release\netcoreapp2.2\Employees.Abstract.csproj.CopyComplete
+C:\Users\user\source\repos\FindWork\Employees\Employees.Abstract\obj\Release\netcoreapp2.2\Employees.Abstract.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.Abstract\obj\Release\netcoreapp2.2\Employees.Abstract.pdb

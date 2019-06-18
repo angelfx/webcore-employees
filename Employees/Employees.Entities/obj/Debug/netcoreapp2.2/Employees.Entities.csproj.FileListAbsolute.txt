@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\FindWork\Employees\Employees.Entities\bin\Debug\netcoreapp2.2\Employees.Entities.deps.json
+C:\Users\user\source\repos\FindWork\Employees\Employees.Entities\bin\Debug\netcoreapp2.2\Employees.Entities.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.Entities\bin\Debug\netcoreapp2.2\Employees.Entities.pdb
+C:\Users\user\source\repos\FindWork\Employees\Employees.Entities\obj\Debug\netcoreapp2.2\Employees.Entities.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FindWork\Employees\Employees.Entities\obj\Debug\netcoreapp2.2\Employees.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FindWork\Employees\Employees.Entities\obj\Debug\netcoreapp2.2\Employees.Entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FindWork\Employees\Employees.Entities\obj\Debug\netcoreapp2.2\Employees.Entities.AssemblyInfo.cs
+C:\Users\user\source\repos\FindWork\Employees\Employees.Entities\obj\Debug\netcoreapp2.2\Employees.Entities.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.Entities\obj\Debug\netcoreapp2.2\Employees.Entities.pdb

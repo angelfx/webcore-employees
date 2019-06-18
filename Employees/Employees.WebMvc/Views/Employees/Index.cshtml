@@ -1,0 +1,79 @@
+﻿@model Employees.WebMvc.Models.TableEmployeeViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form>
+    <table class="table" method="Get">
+        <tr>
+            <td>
+                <label asp-for="Search.FullName" class="control-label"></label>
+                <input asp-for="Search.FullName" type="text" name="fullName" />
+            </td>
+            <td>
+                <label asp-for="Search.Position" class="control-label"></label>
+                <input asp-for="Search.Position" type="text" name="position" />
+            </td>
+            <td>
+                <label asp-for="Search.TelNo" class="control-label"></label>
+                <input asp-for="Search.TelNo" type="text" name="telNo" />
+            </td>
+            <td>
+                <label asp-for="Search.DepartmentId" class="control-label"></label>
+                <select asp-for="Search.DepartmentId" asp-items="Model.Search.DepartmentsList" name="depId">
+                    <option selected="selected" disabled="disabled">Select a department</option>
+                </select>
+            </td>
+            <td> <input type="submit" value="Search" class="btn btn-primary" /></td>
+        </tr>
+    </table>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Search.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Search.Position)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Search.TelNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Search.DepartmentTitle)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Eomployees)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Position)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TelNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DepartmentTitle)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

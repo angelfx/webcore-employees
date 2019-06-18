@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\bin\Release\netcoreapp2.2\Employees.DAL.LocalDB.deps.json
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\bin\Release\netcoreapp2.2\Employees.DAL.LocalDB.runtimeconfig.json
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\bin\Release\netcoreapp2.2\Employees.DAL.LocalDB.runtimeconfig.dev.json
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\bin\Release\netcoreapp2.2\Employees.DAL.LocalDB.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\bin\Release\netcoreapp2.2\Employees.DAL.LocalDB.pdb
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\bin\Release\netcoreapp2.2\Employees.Abstract.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\bin\Release\netcoreapp2.2\Employees.Entities.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\bin\Release\netcoreapp2.2\Employees.Abstract.pdb
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\bin\Release\netcoreapp2.2\Employees.Entities.pdb
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\obj\Release\netcoreapp2.2\Employees.DAL.LocalDB.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\obj\Release\netcoreapp2.2\Employees.DAL.LocalDB.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\obj\Release\netcoreapp2.2\Employees.DAL.LocalDB.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\obj\Release\netcoreapp2.2\Employees.DAL.LocalDB.AssemblyInfo.cs
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\obj\Release\netcoreapp2.2\Employees.DAL.LocalDB.csproj.CopyComplete
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\obj\Release\netcoreapp2.2\Employees.DAL.LocalDB.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.DAL.LocalDB\obj\Release\netcoreapp2.2\Employees.DAL.LocalDB.pdb

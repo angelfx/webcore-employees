@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\bin\Debug\netcoreapp2.2\Employees.BLL.deps.json
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\bin\Debug\netcoreapp2.2\Employees.BLL.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\bin\Debug\netcoreapp2.2\Employees.BLL.pdb
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\bin\Debug\netcoreapp2.2\Employees.Abstract.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\bin\Debug\netcoreapp2.2\Employees.Entities.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\bin\Debug\netcoreapp2.2\Employees.Models.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\bin\Debug\netcoreapp2.2\Employees.Abstract.pdb
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\bin\Debug\netcoreapp2.2\Employees.Entities.pdb
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\bin\Debug\netcoreapp2.2\Employees.Models.pdb
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\obj\Debug\netcoreapp2.2\Employees.BLL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\obj\Debug\netcoreapp2.2\Employees.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\obj\Debug\netcoreapp2.2\Employees.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\obj\Debug\netcoreapp2.2\Employees.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\obj\Debug\netcoreapp2.2\Employees.BLL.csproj.CopyComplete
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\obj\Debug\netcoreapp2.2\Employees.BLL.dll
+C:\Users\user\source\repos\FindWork\Employees\Employees.BLL\obj\Debug\netcoreapp2.2\Employees.BLL.pdb
